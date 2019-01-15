@@ -38,3 +38,14 @@ study
 1. https://github.com/dpallot/simple-websocket-server/blob/master/SimpleWebSocketServer/SimpleWebSocketServer.py
 1. https://github.com/dabeaz/curio
 1. http://lidron.tistory.com/44 
+
+## async
+1. https://www.pycon.kr/2016apac/program/23
+1. https://github.com/martiusweb/asynctest
+1. https://github.com/aio-libs
+1. https://www.studytonight.com/network-programming-in-python/blocking-and-nonblocking-socket-io
+
+
+## 기타
+1. https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html
+1. https://www.slideshare.net/deview/2d4python
