@@ -53,3 +53,18 @@ study
 ## selector
 1. https://itholic.github.io/python-select/
 1. https://code.i-harness.com/ko/docs/python~3.7/library/selectors
+
+# elasticsearch
+http://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221074850627
+
+# 111
+http://woowabros.github.io/
+
+# redis
+https://www.joinc.co.kr/w/man/12/REDIS/DataModeling
+https://www.joinc.co.kr/w/man/12/REDIS/Pipelining 
+https://www.joinc.co.kr/w/man/12/REDIS/IntroDataType
+http://bcho.tistory.com/654
+https://charsyam.wordpress.com/category/cloud/redis/
+https://sorentwo.com/2015/08/10/efficient-redis-caching-through-hashing.html
+http://woowabros.github.io/experience/2016/11/28/woowahan_4one_event.html
