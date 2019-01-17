@@ -49,3 +49,7 @@ study
 ## 기타
 1. https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html
 1. https://www.slideshare.net/deview/2d4python
+
+## selector
+1. https://itholic.github.io/python-select/
+1. https://code.i-harness.com/ko/docs/python~3.7/library/selectors
