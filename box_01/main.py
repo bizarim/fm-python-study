@@ -1,8 +1,10 @@
-import Libs.common.render
-import Libs.common_svr.play
+import Libs.common.packet
+import Libs.database.query
 
 def run_test():
-    Libs.common.render.on_test()
-    Libs.common_svr.play.on_test()
+    Libs.common.packet.send()
+    Libs.database.query.excute()
+    Libs.common.packet.recv()
+    
 
 run_test()
