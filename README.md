@@ -68,3 +68,6 @@ http://bcho.tistory.com/654
 https://charsyam.wordpress.com/category/cloud/redis/
 https://sorentwo.com/2015/08/10/efficient-redis-caching-through-hashing.html
 http://woowabros.github.io/experience/2016/11/28/woowahan_4one_event.html
+
+
+https://github.com/edykim/cppbestpractices
